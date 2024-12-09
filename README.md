@@ -1,3 +1,9 @@
+[![](https://docs.posit.co/connect-cloud/images/cc-deploy.svg)](https://connect.posit.cloud/publish?contentType=shiny&sourceRepositoryURL=https%3A%2F%2Fgithub.com%2Falex-chisholm%2Fshiny-r-abtesting&sourceRef=main&sourceRefType=branch&primaryFile=app.R)
+
+
+
+https://github.com/alex-chisholm/shiny-r-abtesting
+
 # A/B Test Calculator
 
 A Shiny application for analyzing A/B test results with statistical significance testing.
