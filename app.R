@@ -23,7 +23,7 @@ ui <- page_sidebar(
     col_widths = c(6, 6),
     value_box(
       title = "Conversion Rate A",
-      value = textOutput(str_c("conv_rate_a")),
+      value = textOutput("conv_rate_a"),
       style = "background-color: #447099;color: #ffffff;"
     ),
     value_box(
